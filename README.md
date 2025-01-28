@@ -26,6 +26,7 @@ The application automatically detects the delimiter based on the sample data and
 
 
 # Advanced File to PostgreSQL Format Converter
+# advanced_psql_converter.py
 
 This advanced Python application provides a graphical interface for converting various file formats (such as log, text, or CSV) into PostgreSQL-compatible CSV formats. The app allows users to upload files, preview the first 50 rows, modify column names and remove unwanted columns, and finally save the converted file. It leverages `tkinter` for the GUI and `pandas` for data manipulation.
 
